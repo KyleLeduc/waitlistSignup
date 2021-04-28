@@ -1,0 +1,14 @@
+{
+  "name": "vaccinesignup",
+  "version": "1.0.0",
+  "description": "Sign up to all Save-On-Foods Covid vaccine waitlists in a 30km radius",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Leduc",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "*"
+  }
+}
